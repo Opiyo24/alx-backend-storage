@@ -1,0 +1,3 @@
+//Uses or creates a monfodb database
+
+use my_db;
